@@ -1,35 +1,29 @@
 cff-version: 1.2.0
-title: ECG Rat
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
+message: "If you use this software in your research, please cite it as below."
+title: "ECG Rat"
 authors:
-  - given-names: Mariana
-    family-names: Valério
-    email: marianavalerio566@gmail.com
-    affiliation: University of Mogi das Cruzes
-    orcid: 'https://orcid.org/0000-0001-8323-9815'
-  - orcid: 'https://orcid.org/0000-0002-1135-6446'
-    affiliation: Karlsruhe Institute of Technology
-    given-names: Silvia
-    family-names: Becker
-  - orcid: 'https://orcid.org/0000-0002-6584-0233'
-    affiliation: Karlsruhe Institute of Technology
-    given-names: Marie
-    family-names: Houillon
-  - orcid: 'https://orcid.org/0000-0002-2487-4744'
-    affiliation: Karlsruhe Institute of Technology
-    email: axel.loewe@kit.edu
-    given-names: Axel
-    family-names: Loewe
-  - orcid: 'https://orcid.org/0000-0003-4766-8617'
-    affiliation: University of Mogi das Cruzes
-    email: alessandrops@umc.br
-    given-names: Alessandro
-    family-names: Silva
-repository-code: 'https://github.com/Mariizero/ECGRATproject.git'
+- family-names: "Valério"
+  given-names: "Mariana" 
+  email: "marianavalerio566@gmail.com"
+  affiliation: "University of Mogi das Cruzes"
+  orcid: "https://orcid.org/0000-0001-8323-9815"
+- family-names: "Becker"
+  given-names: "Silvia"
+  affiliation: "Karlsruhe Institute of Technology"
+  orcid: "https://orcid.org/0000-0002-1135-6446"
+- family-names: "Houillon"
+  given-names: "Marie"
+  affiliation: "Karlsruhe Institute of Technology"
+  orcid: "https://orcid.org/0000-0002-6584-0233"
+- family-names: "Loewe"
+  given-names: "Axel"
+  email: "axel.loewe@kit.edu" 
+  affiliation: "Karlsruhe Institute of Technology"
+  orcid: "https://orcid.org/0000-0002-2487-4744" 
+- family-names: "Silva"
+  given-names: "Alessandro"
+  email: "alessandrops@umc.br"
+  affiliation: "University of Mogi das Cruzes"
+  orcid: "https://orcid.org/0000-0003-4766-8617"
 license: MIT
-doi: "10.xxxx/zenodo.xxxxx"
-version: 1.0.0
-date-released: 2024-12-11
+repository-code: "https://github.com/Mariizero/ECGRATproject.git"
