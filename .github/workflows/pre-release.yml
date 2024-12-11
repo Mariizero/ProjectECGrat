@@ -39,6 +39,7 @@ jobs:
           fi
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+          ZENODO_URL: ${{ env.ZENODO_URL }}
       - name: Prepare RADAR release
         run: |
           if [ $ENABLE_RADAR = true ];
